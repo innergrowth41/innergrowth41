@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi , I'm ruth 👋
 
-<!--
-**innergrowth41/innergrowth41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning AI at Nairobi University.
+- I'm interested in web development.
+- I'm looking to colaborate on AI projects e.g beginner friendly open source projects.
+  
+## Skills I'm building
+- Git & GitHub.
+- HTML,CSS,PHP and Machine learning.
+  
+ ## Current projects
+- Community Help [http://innercare.co.ke/] - to help the needy in the society.
 
-Here are some ideas to get you started:
+## How to Reach Me
+- Email [innergrowth41@gmail.com].
+- linkedIn [https://www.linkedin.com/in/coach-ruth-445176346/].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun fact
+- I'm fluent in portuguese.
