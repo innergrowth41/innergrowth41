@@ -14,6 +14,13 @@
   - HTML & CSS.
 - AI prompting.
 
+1. "git status".
+2. "git add .".
+3. "git add filename.txt".
+4. "git commit "changes".
+5. "git push origin main".
+   
+
 
  
 
@@ -23,9 +30,21 @@
 | HTML    |Web development |https://www.freecodecamp.org/ |
 
 
-- [x] Basics
-- [ ] Learning 
-- [ ] Mastering
+- [x] Basic of Git & GitHub.
+- [ ] Web development.
+- [ ] Machine learning.
+- [x] Linux.
+
+```python
+print("Hello, world!")
+```
+> we are out to serve.
+
+## I'm an entrepreneur.
+** I love cycling.**
+* I am adventurous.*
+~~ I love  my Family.~~
+` I am a proud kenyan.`
 
  ---
 
